@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berkay Emre Aslan</h1>
-<h3 align="center">A passionate IOS developer from Türkiye</h3>
+<h3 align="center">A passionate Mobile Developer from Türkiye</h3>
 
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/berkayemre](https://github.com/berkayemre)
 
-- 💬 Ask me about **Swift, SwiftUI**
+- 💬 Ask me about **Swift, SwiftUI, ReactNative**
 
 - 📫 How to reach me **emreaslan1177@gmail.com**
 
